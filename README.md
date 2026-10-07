@@ -103,3 +103,4 @@ Le fichier est écrit dans `api/storage/app/invoices/facture-1.pdf`.
 ## Intégration continue
 
 Le workflow `.github/workflows/lint.yml` vérifie le formatage de l'API (Pint), ESLint et les types du front à chaque pull request et à chaque push sur `main`.
+# comptoir
